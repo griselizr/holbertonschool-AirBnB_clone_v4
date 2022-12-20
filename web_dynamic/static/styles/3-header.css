@@ -4,8 +4,19 @@ header {
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
 }
+
 header .logo {
     background: url("../images/logo.png") no-repeat;
     left: 20px;
     height: 100%;
+}
+
+header #api-status {
+    margin-right: 30px;
+    float: right;
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+    border-radius: 30px;
+    background-color: #cccccc;
 }

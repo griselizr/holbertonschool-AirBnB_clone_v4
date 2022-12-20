@@ -20,3 +20,7 @@ header #api-status {
     border-radius: 30px;
     background-color: #cccccc;
 }
+
+header #api-status {
+    background-color: #ff545f;
+}
